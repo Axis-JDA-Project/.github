@@ -9,9 +9,9 @@ This bot is essentially "another general purpose bot". Meaning it can do most th
   - **Warn**
   - **Mute**
 - Provide fun commands like
-  - **8-Ball** - Ask a question and you shall receive an answer
-  - **Joke** - Tells a joke
-  - **Memes** - Generates a meme
+  - **8-Ball**
+  - **Joke**
+  - **Memes**
   - **And More!**
 
 ## The Details
@@ -24,12 +24,12 @@ The commands I would like to have (we can always change this) are:
   - **Purge**
   - **NickName**
 - Fun/Misc
-  - **8-Ball** - Ask a question and you shall receive an answer
-  - **Joke** - Tells a joke
-  - **Memes** - Grabs memes from a source (most likely Reddit)
-  - **ping** - Simply replies "Pong"
+  - **8-Ball**
+  - **Joke**
+  - **Memes**
+  - **ping**
 - User
-  - **Pfp** - Generates a PfP
-  - **WhoIs** - Gives basic user info (could be moderation, idk)
-  - **Reminder/Remind** - Pings the user with a reminder in X amount of time
+  - **Pfp**
+  - **WhoIs**
+  - **Reminder/Remind**
   - **Will add more in the future**
