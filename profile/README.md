@@ -7,9 +7,9 @@ Welcome everyone to **Axis**. The Public JDA (Java Discord API) Project!
     - Moderation (Bans, TimeOuts)
     - Member joins and leave messages
     - Ticket System (Coming Soon)
-    - Moderation (Ban, Kick, Mute, and manage nicknames)
-    - Fun Commands (8ball, memes, and cats)
-    - Utility Commands (Server and User info, and more)
+- Moderation (Ban, Kick, Mute, and manage nicknames)
+- Fun Commands (8ball, memes, and cats)
+- Utility Commands (Server and User info, and more)
 
 ## Getting Started
 You can invite the bot using this link:
